@@ -6,7 +6,7 @@ Python Modules Required:
 2. matplotlib: pip install matplotlib
 3. pygifsicle: pip install pygifsicle
 
-Place all pictures in order in the folder called "gif_pics".
+Place all pictures in order in a folder called "gif_pics" in the same folder as the .py file.
 
 created by Dhruv Dange (07/04/2021)
 https://github.com/DhruvDange
